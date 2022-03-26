@@ -1,7 +1,5 @@
 package projeto;
 
-import java.util.Scanner;
-
 /**
  * O seu instrutor de lógica de programação, Damilson Bonetti, quer que você
  * desenvolva uma tela com as seguintes características:

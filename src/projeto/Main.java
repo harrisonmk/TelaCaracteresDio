@@ -28,10 +28,7 @@ package projeto;
  *
  * Saída A saída será impresso conforme a figura acima.
  */
-/**
- *
- * @author Harrison
- */
+
 public class Main {
 
     public static void main(String[] args) {
